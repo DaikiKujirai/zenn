@@ -58,4 +58,3 @@ const fetchExample = async () => {
 
 ## 参考
 - [Nuxt3 公式](https://nuxt.com/)
-- 

@@ -1,1 +1,6 @@
-# zenn
+
+### 記事のプレビュー
+
+```
+npx zenn preview
+```
